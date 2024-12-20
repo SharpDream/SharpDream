@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SharpDream
 - 👀 I’m interested in ML and AI
-- 🌱 I’m currently learning pyhton, ML
+- 🌱 I’m currently learning Python, ML
 - 😄 Pronouns: Rafi
+- ☺️ Python, C++, HTML, CSS
 - 🎂 Wish me on 8th may
 
 <!---
