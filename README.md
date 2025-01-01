@@ -5,7 +5,7 @@
 - ☺️ Python, C++, HTML, CSS
 - 🎂 Wish me on 8th may
 
-</br></br>
+<br><br>
 
 # Tech Stack
 
@@ -22,7 +22,9 @@
 ![LeetCode](https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 ![Data Structures and Algorithms](https://img.shields.io/badge/dsa-6A5ACD?style=for-the-badge&logo=data&logoColor=white)
 
-</br>
+
+<br><be>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -32,6 +34,9 @@
 
 
 <br>
+<br>
+
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SharpDream)
 
 
