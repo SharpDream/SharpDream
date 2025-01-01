@@ -31,4 +31,8 @@
 </picture>
 
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/SharpDream)
+
+
+
 
