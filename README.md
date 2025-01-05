@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @SharpDream
 - 👀 I’m interested in ML and AI
-- 🌱 I’m currently learning Python, ML
+- 🌱 I’m currently learning C++, DSA
 - 😄 Pronouns: Rafi
 - ☺️ Python, C++, HTML, CSS
 - 🎂 Wish me on 8th may
+- 🎓 Student of Class 10
 
 <br><br>
 
